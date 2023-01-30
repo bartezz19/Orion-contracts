@@ -1,0 +1,15 @@
+node_modules/
+artifacts/
+cache/
+bak/
+tmp/
+deploy/
+
+.vscode
+.vs
+.secret
+.env
+.env.test
+.env.product
+
+*.txt
